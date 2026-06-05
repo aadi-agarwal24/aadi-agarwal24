@@ -28,7 +28,7 @@ I am a B.Tech Computer Science student at the University of Petroleum and Energy
   </a>
   &nbsp;
   <a href="mailto:aadiagarwal65@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/gmail.svg" width="40" height="40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/aadiagwl/" target="_blank">
