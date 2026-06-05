@@ -24,14 +24,14 @@ I am a B.Tech Computer Science student at the University of Petroleum and Energy
 
 <p align="left">
   <a href="https://instagram.com/aadi_agwl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" width="40" height="40" alt="Instagram" />
   </a>
-
-  <a href="mailto:aadiagarwal65@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="mailto:aadiagarwal65@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/gmail.svg" width="40" height="40" alt="Gmail" />
   </a>
-
+  &nbsp;
   <a href="https://www.linkedin.com/in/aadiagwl/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" width="40" height="40" alt="LinkedIn" />
   </a>
 </p>
